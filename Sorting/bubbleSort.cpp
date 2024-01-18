@@ -43,6 +43,6 @@ int main(){
 }
 
 
-//time complexity will be O(n^2) in case of worst and average
+//time complexity will be O(n^2) in worst case and average case
 
 // if the array is already in an ascending order, t.c will be O(N) (best case)
