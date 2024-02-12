@@ -2,7 +2,7 @@
 using namespace std;
 
 int longestSuccessiveElements(vector<int>&a) {
-    // Write your code here.
+    
     int n = a.size();
     if(n == 0) return 0;
 
